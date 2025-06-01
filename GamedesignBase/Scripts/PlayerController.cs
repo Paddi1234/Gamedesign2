@@ -23,24 +23,18 @@ public class PlayerController : MonoBehaviour
     {
         // Bewegung horizontal
         float moveInput = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
 
         // Bodenkontrolle
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
+        // Debug-Ausgabe
+        Debug.Log("isGrounded: " + isGrounded);
+
         // Springen
         if (isGrounded && Input.GetButtonDown("Jump"))
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-        }
-    }
-
-    void OnDrawGizmosSelected()
-    {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
     }
 }
