@@ -10,14 +10,24 @@ public class PickUpSystem : MonoBehaviour
         // Prüfen ob der Player das Item berührt
         if (other.CompareTag("Player"))
         {
-            // Optional: Sound abspielen
-           // if (pickupSound != null)
-            //{
-             //   AudioSource.PlayClipAtPoint(pickupSound, transform.position);
-            //}
+            {
+                ItemCounter counter = Object.FindFirstObjectByType<ItemCounter>();
+                if (counter != null)
+                {
+                    counter.AddItem();
+                }
 
-            // Objekt "aufsammeln" = zerstören
-            Destroy(gameObject);
+                // Optional: Sound abspielen
+                // if (pickupSound != null)
+                //{
+                //   AudioSource.PlayClipAtPoint(pickupSound, transform.position);
+                //}
+
+                // Objekt "aufsammeln" = zerstören
+                Destroy(gameObject);
+            }
         }
     }
 }
+
+
