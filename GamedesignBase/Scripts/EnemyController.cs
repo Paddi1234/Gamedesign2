@@ -2,36 +2,76 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
+    public float bounceForce = 10f;
     private Animator animator;
-    private AudioSource audioSource;
+    private bool IsDead = false;
 
     public AudioClip deathSound;
-    private bool isDead = false;
+    private AudioSource audioSource;
 
-    private void Start()
+    private Rigidbody2D rb;
+
+    void Start()
     {
         animator = GetComponent<Animator>();
         audioSource = GetComponent<AudioSource>();
+        rb = GetComponent<Rigidbody2D>();
     }
-
     public void Die()
     {
-        if (isDead) return;
-        isDead = true;
+        if (IsDead) return;
+        IsDead = true;
 
-        // Animation starten
         if (animator != null)
-        {
-            animator.SetTrigger("isDead");
-        }
+            animator.SetBool("IsDead", true);
 
-        // Sound abspielen
-        if (audioSource != null && deathSound != null)
-        {
+        if (deathSound != null && audioSource != null)
             audioSource.PlayOneShot(deathSound);
-        }
 
-        // Gegner nach kurzer Zeit zerstören (z. B. nach Animation/Sound)
         Destroy(gameObject, 0.5f);
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (IsDead) return;
+
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Rigidbody2D playerRb = collision.gameObject.GetComponent<Rigidbody2D>();
+            PlayerHealth playerHealth = collision.gameObject.GetComponent<PlayerHealth>();
+
+            // Richtung des Kontakts prüfen
+            ContactPoint2D contact = collision.GetContact(0);
+            Vector2 normal = contact.normal;
+
+            bool hitFromAbove = normal.y < -0.5f;
+
+            if (hitFromAbove)
+            {
+                // Spieler springt auf Gegner → Gegner stirbt
+                IsDead = true;
+
+                if (animator != null)
+                    animator.SetBool("IsDead", true);
+
+                if (deathSound != null && audioSource != null)
+                    audioSource.PlayOneShot(deathSound);
+
+                if (playerRb != null)
+                    playerRb.linearVelocity = new Vector2(playerRb.linearVelocity.x, bounceForce);
+
+                // Zerstörung nach Zeit (nach Animation)
+                Destroy(gameObject, 0.5f);
+            }
+            else
+            {
+                // Spieler trifft Gegner von der Seite → Schaden
+                playerHealth?.TakeDamage(1);
+            }
+        }
+    }
 }
+
+
+
+
+
