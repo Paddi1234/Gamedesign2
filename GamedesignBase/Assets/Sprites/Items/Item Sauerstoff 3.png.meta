@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 1636ad7b05ff4224586f8fd75e1ff316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7498888147893878221
+    second: Item Sauerstoff 3_0
+  - first:
+      213: 910466976402027797
+    second: Item Sauerstoff 3_1
+  - first:
+      213: -5280322212359771204
+    second: Item Sauerstoff 3_2
+  - first:
+      213: 2750836817250517874
+    second: Item Sauerstoff 3_3
+  - first:
+      213: 597600279698220438
+    second: Item Sauerstoff 3_4
+  - first:
+      213: 549928903196885529
+    second: Item Sauerstoff 3_5
+  - first:
+      213: -3630661363607952753
+    second: Item Sauerstoff 3_6
+  - first:
+      213: -8198421488249671699
+    second: Item Sauerstoff 3_7
+  - first:
+      213: 2292546082127853767
+    second: Item Sauerstoff 3_8
+  - first:
+      213: -1885187525349638999
+    second: Item Sauerstoff 3_9
+  - first:
+      213: -4559006854412261550
+    second: Item Sauerstoff 3_10
+  - first:
+      213: 4680462055543599805
+    second: Item Sauerstoff 3_11
+  - first:
+      213: 8163650334095508363
+    second: Item Sauerstoff 3_12
+  - first:
+      213: -1920033213933809872
+    second: Item Sauerstoff 3_13
+  - first:
+      213: 6532602451480458465
+    second: Item Sauerstoff 3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_0
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 5601
+        width: 1144
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf9992a07611860800000000000000
+      internalID: 7498888147893878221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_1
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 5530
+        width: 810
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ba2424e0a2ac00800000000000000
+      internalID: 910466976402027797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_2
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 4256
+        width: 752
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe0b89ce688b6b0800000000000000
+      internalID: -5280322212359771204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_3
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 4378
+        width: 429
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273884fb28fec2620800000000000000
+      internalID: 2750836817250517874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_4
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 4494
+        width: 735
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952615c94a1b4800800000000000000
+      internalID: 597600279698220438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_5
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 4219
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91245ce7c6db1a700800000000000000
+      internalID: 549928903196885529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_6
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 3692
+        width: 1080
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a962d9bc4d9dc0800000000000000
+      internalID: -3630661363607952753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_7
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 3447
+        width: 497
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe2f1f71b593e80800000000000000
+      internalID: -8198421488249671699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_8
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 2886
+        width: 386
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b178e382c0df10800000000000000
+      internalID: 2292546082127853767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_9
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 2376
+        width: 427
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac79801fe776d5e0800000000000000
+      internalID: -1885187525349638999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_10
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2333
+        width: 288
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257af2aab672bb0c0800000000000000
+      internalID: -4559006854412261550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_11
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 2706
+        width: 364
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2fe5df07754f040800000000000000
+      internalID: 4680462055543599805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_12
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 2655
+        width: 341
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83034ad9bc1b4170800000000000000
+      internalID: 8163650334095508363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_13
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 965
+        width: 417
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0686f6fbaa55e0800000000000000
+      internalID: -1920033213933809872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item Sauerstoff 3_14
+      rect:
+        serializedVersion: 2
+        x: 5455
+        y: 1172
+        width: 362
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b653815778aa50800000000000000
+      internalID: 6532602451480458465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
