@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e97f0e4c6d94fb41819ff81a18d337a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullHeart: {fileID: 4813330226724197185, guid: d7acd040a63b05846b6634ed3575e7e1, type: 3}
+  - emptyHeart: {fileID: 2374757981029509482, guid: 0e4f3fb5d4dd6924fa77290250237a58, type: 3}
+  - respawnPoint: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
