@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rot springen 2_0: 1542953433764171994
+      Rot springen 2_1: 2739922250620618003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

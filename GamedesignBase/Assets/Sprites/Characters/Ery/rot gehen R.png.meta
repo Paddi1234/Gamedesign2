@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rot gehen R_0: 8678962941032646011
+      rot gehen R_1: -1921515432253570452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

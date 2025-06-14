@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "wei\xDF stachel Kopf_0": -8457192784109078623
+      "wei\xDF stachel Kopf_1": 98580150900698132
+      "wei\xDF stachel Kopf_2": -7229020222382427171
+      "wei\xDF stachel Kopf_3": 5657656153007167571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

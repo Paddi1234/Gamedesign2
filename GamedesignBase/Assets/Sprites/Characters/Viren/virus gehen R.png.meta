@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      virus gehen R_0: 5689553989093150480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

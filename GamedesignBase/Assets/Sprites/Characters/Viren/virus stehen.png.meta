@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      virus stehen_0: 8849891968959143032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

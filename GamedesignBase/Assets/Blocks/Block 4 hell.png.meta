@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Block 4 hell_0: -8660503366541807926
+      Block 4 hell_1: -935133485444352343
+      Block 4 hell_2: -9103393476063137770
+      Block 4 hell_3: -753453809709677461
+      Block 4 hell_4: 6474240999190578714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

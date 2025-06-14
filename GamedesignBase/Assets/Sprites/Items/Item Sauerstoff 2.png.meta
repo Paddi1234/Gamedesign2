@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Item Sauerstoff 2_0: 4449233931940031228
+      Item Sauerstoff 2_1: 1805333499599137931
+      Item Sauerstoff 2_2: 1522553128365137686
+      Item Sauerstoff 2_3: 2445271700677320436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

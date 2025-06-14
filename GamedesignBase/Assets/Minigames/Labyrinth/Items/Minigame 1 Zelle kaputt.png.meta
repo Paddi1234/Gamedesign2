@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minigame 1 Zelle kaputt_0: 4153912959679918054
+      Minigame 1 Zelle kaputt_1: 6878449110195505019
+      Minigame 1 Zelle kaputt_2: 3085217659279085516
+      Minigame 1 Zelle kaputt_3: 7503135523573042880
+      Minigame 1 Zelle kaputt_4: -3087862886407665861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

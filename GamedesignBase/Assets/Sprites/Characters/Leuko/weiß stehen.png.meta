@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "wei\xDF stehen_0": 2471305762026853296
+      "wei\xDF stehen_1": 6986035715372124214
+      "wei\xDF stehen_2": 8420263621274331314
+      "wei\xDF stehen_3": 3056315033989789946
+      "wei\xDF stehen_4": -6369262017884457804
+      "wei\xDF stehen_5": 1244585946678199736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

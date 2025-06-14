@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "wei\xDF stachel springen 1_0": 5406777973552505367
+      "wei\xDF stachel springen 1_1": 4924621625554140570
+      "wei\xDF stachel springen 1_2": -8875431253634703204
+      "wei\xDF stachel springen 1_3": -5767877981047723124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

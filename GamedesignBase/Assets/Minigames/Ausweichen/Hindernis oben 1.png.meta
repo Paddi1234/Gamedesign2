@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hindernis oben 1_0: -9167941549910370700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

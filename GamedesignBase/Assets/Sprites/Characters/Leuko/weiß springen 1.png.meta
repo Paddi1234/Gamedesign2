@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "wei\xDF springen 1_0": -3407402607206557677
+      "wei\xDF springen 1_1": -1566437127146963090
+      "wei\xDF springen 1_2": -967296008709220284
+      "wei\xDF springen 1_3": 2207050478213750086
+      "wei\xDF springen 1_4": 7389757386113138817
+      "wei\xDF springen 1_5": -6501164267317838918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

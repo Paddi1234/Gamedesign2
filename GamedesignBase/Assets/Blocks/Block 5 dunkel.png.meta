@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Block 5 dunkel_0: -5134110996151234787
+      Block 5 dunkel_1: 3632200963691562614
+      Block 5 dunkel_2: -523814855597194806
+      Block 5 dunkel_3: -3253644879553094289
+      Block 5 dunkel_4: 7518274458679978693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
