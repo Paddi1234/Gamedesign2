@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
 
 public class Checkpoint : MonoBehaviour
@@ -10,8 +9,11 @@ public class Checkpoint : MonoBehaviour
     [SerializeField] private float messageDuration = 2f;
 
     [Header("Sprites")]
-    [SerializeField] private Sprite inactiveSprite; // rot
-    [SerializeField] private Sprite activeSprite;   // grün
+    [SerializeField] private Sprite inactiveSprite;
+    [SerializeField] private Sprite activeSprite;
+
+    [Header("System-Referenzen")]
+    [SerializeField] private ItemCounter itemCounter; // im Inspector zuweisen
 
     private bool isActivated = false;
     private SpriteRenderer spriteRenderer;
@@ -29,42 +31,34 @@ public class Checkpoint : MonoBehaviour
     {
         if (!isActivated && other.CompareTag("Player"))
         {
-            ItemCounter counter = Object.FindFirstObjectByType<ItemCounter>();
-            if (counter == null)
+            if (itemCounter == null)
             {
-                Debug.LogWarning("ItemCounter nicht gefunden!");
+                Debug.LogWarning("[Checkpoint] Kein ItemCounter zugewiesen!");
                 return;
             }
 
-            Debug.Log($"Checkpoint betreten. Items: {counter.GetItemCount()} / {requiredItems}");
+            itemCounter.SetTarget(requiredItems);
+            Debug.Log($"[Checkpoint] Betreten – Ziel: {requiredItems}, Gesammelt: {itemCounter.GetItemCount()}");
 
-            counter.SetTarget(requiredItems); // wichtig!
-
-            if (counter.GetItemCount() >= requiredItems)
+            if (itemCounter.GetItemCount() >= requiredItems)
             {
                 isActivated = true;
-                counter.DeliverItems(requiredItems);
-
                 GameManager.Instance.SetRespawnPoint(transform.position);
-                Debug.Log("Checkpoint aktiviert!");
+                Debug.Log($"[Checkpoint] Aktiviert! Respawn gesetzt.");
 
                 if (doorToOpen != null)
                     doorToOpen.OpenDoor();
 
                 if (spriteRenderer != null && activeSprite != null)
-                {
                     spriteRenderer.sprite = activeSprite;
-                    Debug.Log("Sprite auf GRÜN gesetzt!");
-                }
             }
             else
             {
-                int fehlende = requiredItems - counter.GetItemCount();
-                ShowFeedback($"Du brauchst noch {fehlende} Items, um weiterzukommen!");
+                int fehlend = requiredItems - itemCounter.GetItemCount();
+                ShowFeedback($"Du brauchst noch {fehlend} Items, um weiterzukommen.");
             }
         }
     }
-
 
     private void ShowFeedback(string message)
     {

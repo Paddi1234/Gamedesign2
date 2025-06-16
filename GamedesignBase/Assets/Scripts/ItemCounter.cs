@@ -28,25 +28,6 @@ public class ItemCounter : MonoBehaviour
         return collectedItems;
     }
 
-    public void DeliverItems(int amount)
-    {
-        if (collectedItems >= amount)
-        {
-            collectedItems -= amount;
-            Debug.Log($"Abgegeben: {amount} Items.");
-            UpdateUI();
-
-            if (door != null && collectedItems >= targetItems)
-            {
-                door.OpenDoor();
-            }
-        }
-        else
-        {
-            Debug.Log($"Nicht genug Items zum Abgeben: {collectedItems} / {amount}");
-        }
-    }
-
     public void SetTarget(int amount)
     {
         targetItems = amount;

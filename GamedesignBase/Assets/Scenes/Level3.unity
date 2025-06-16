@@ -1911,8 +1911,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
@@ -4931,8 +4931,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.00012207031, y: 0}
@@ -5552,8 +5552,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.000025749207, y: -0.000061035156}
@@ -5761,8 +5761,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.0000076293945, y: 0}
@@ -6951,8 +6951,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
@@ -7160,8 +7160,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.000018119812, y: 0}
@@ -9280,8 +9280,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.000015258789, y: -0.000061035156}
@@ -11187,6 +11187,7 @@ MonoBehaviour:
   messageDuration: 2
   inactiveSprite: {fileID: 4653480734487027272, guid: cc991e18ae2024048941d280190cefca, type: 3}
   activeSprite: {fileID: 5494326710151081359, guid: 52efa53513a00de458fc2fd2d15002b0, type: 3}
+  itemCounter: {fileID: 1972594081}
 --- !u!1 &958849360
 GameObject:
   m_ObjectHideFlags: 0
@@ -11794,8 +11795,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.0000076293945, y: -0.000061035156}
@@ -15111,6 +15112,7 @@ MonoBehaviour:
   messageDuration: 2
   inactiveSprite: {fileID: 4653480734487027272, guid: cc991e18ae2024048941d280190cefca, type: 3}
   activeSprite: {fileID: 5494326710151081359, guid: 52efa53513a00de458fc2fd2d15002b0, type: 3}
+  itemCounter: {fileID: 1972594081}
 --- !u!1 &1390438176
 GameObject:
   m_ObjectHideFlags: 0
@@ -15314,8 +15316,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.000011444092, y: 0.000030517578}
@@ -18006,8 +18008,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.000030517578}
@@ -19038,8 +19040,8 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.0000038146973, y: 0}
@@ -19871,6 +19873,7 @@ MonoBehaviour:
   messageDuration: 2
   inactiveSprite: {fileID: 4653480734487027272, guid: cc991e18ae2024048941d280190cefca, type: 3}
   activeSprite: {fileID: 5494326710151081359, guid: 52efa53513a00de458fc2fd2d15002b0, type: 3}
+  itemCounter: {fileID: 1972594081}
 --- !u!1 &1837492829
 GameObject:
   m_ObjectHideFlags: 0
@@ -20379,7 +20382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2146338597}
-  followDistance: 1
+  followDistance: 0.5
   moveSpeed: 5
   jumpForce: 6
   groundLayer:
