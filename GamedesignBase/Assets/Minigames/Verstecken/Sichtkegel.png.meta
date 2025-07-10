@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sichtkegel_0: 5920583887309450439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

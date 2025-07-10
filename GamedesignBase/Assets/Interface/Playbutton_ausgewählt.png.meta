@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Playbutton_ausgew\xE4hlt_0": 5838246498265585063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Quest Rot_0: 3327135713779105891
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

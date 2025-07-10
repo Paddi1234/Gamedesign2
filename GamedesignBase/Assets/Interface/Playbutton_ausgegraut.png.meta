@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Playbutton_ausgegraut_0: -7948457670819664471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

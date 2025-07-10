@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Heilspot_0: -1597686356882981519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
