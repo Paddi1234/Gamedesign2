@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drag&Drop Ader_0: -3448799236477995538
+      Drag&Drop Ader_1: -2486557376246329030
+      Drag&Drop Ader_2: -675594517013187744
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

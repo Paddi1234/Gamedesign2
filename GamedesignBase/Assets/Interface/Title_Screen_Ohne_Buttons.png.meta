@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Title_Screen_Ohne_Buttons_0: 3926456149492085918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
