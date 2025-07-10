@@ -601,7 +601,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5c9375a0c798d644955f808c2232891, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Labyrinth
+  sceneToLoad: CutSceneLabyrinth
   enterSound: {fileID: 8300000, guid: 83dcf068834f4aa43bfb3fffd8e84f09, type: 3}
 --- !u!58 &83774060
 CircleCollider2D:
