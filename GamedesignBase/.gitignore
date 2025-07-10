@@ -19,3 +19,7 @@
 *.VC.db
 .vscode/
 .idea/
+*.suo
+*.user
+*.userprefs
+*.csproj.user

@@ -42,7 +42,7 @@ public class GameManagerAtherien : MonoBehaviour
 
         if (score >= winScore)
         {
-            SceneManager.LoadScene("WinScene");
+            SceneManager.LoadScene("Level3");
         }
     }
 }
