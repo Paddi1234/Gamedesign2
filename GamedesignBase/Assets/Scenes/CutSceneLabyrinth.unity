@@ -298,7 +298,7 @@ VideoPlayer:
   m_VideoClip: {fileID: 32900000, guid: 799104890119c9444ab8af35f15151d9, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
-  m_TargetCamera: {fileID: 0}
+  m_TargetCamera: {fileID: 881347656}
   m_TargetTexture: {fileID: 0}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
