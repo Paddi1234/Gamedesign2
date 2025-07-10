@@ -1,61 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\",
+  "WorkspaceRootPath": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|c:\\users\\patri\\onedrive\\desktop\\uni\\4. semester\\gamedesign\\pa\\main\\gamedesign2\\gamedesignbase\\assets\\scripts\\gamemanageratherien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanageratherien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|c:\\users\\patri\\onedrive\\desktop\\uni\\4. semester\\gamedesign\\pa\\main\\gamedesign2\\gamedesignbase\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|c:\\users\\patri\\onedrive\\desktop\\uni\\4. semester\\gamedesign\\pa\\leveldesign\\gamedesign2\\gamedesignbase\\assets\\scripts\\scenetriggerwithfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\scenetriggerwithfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetriggerwithfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|c:\\users\\patri\\onedrive\\desktop\\uni\\4. semester\\gamedesign\\pa\\leveldesign\\gamedesign2\\gamedesignbase\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\sidekickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\sidekickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sidekickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7435C13-6FC0-B3B3-4C87-7614AEFC2F48}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,41 +69,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SceneTriggerWithFade.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTriggerWithFade.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTriggerWithFade.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTriggerWithFade.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SceneTriggerWithFade.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameManagerAtherien.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManagerAtherien.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerAtherien.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManagerAtherien.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerAtherien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T10:00:53.384Z",
+              "WhenOpened": "2025-07-10T18:06:51.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAASwD0AAAA1AAAAAAAAAA==",
+              "Title": "SceneTriggerWithFade.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTriggerWithFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTriggerWithFade.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTriggerWithFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneTriggerWithFade.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T18:45:03.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T10:00:53.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAASwD0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:45:03.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DeathZone.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\DeathZone.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\DeathZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\DeathZone.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\DeathZone.cs",
               "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA4wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SidekickController.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SidekickController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SidekickController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SidekickController.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SidekickController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SidekickController.cs",
               "RelativeToolTip": "Assets\\Scripts\\SidekickController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,62 +134,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs",
               "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs",
-              "RelativeToolTip": "Assets\\GameManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\GameManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T18:22:41.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Checkpoint.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\Checkpoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\Checkpoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T18:21:45.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ItemCounter.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\ItemCounter.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\ItemCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCounter.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\ItemCounter.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\ItemCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemCounter.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T18:07:14.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T18:07:14.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneTransition.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTransition.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTransition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransition.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTransition.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\SceneTransition.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneTransition.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:23:49.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:23:49.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwFkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EnemyPatrol.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyPatrol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPatrol.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\EnemyPatrol.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyPatrol.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PlayerRespawn.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerRespawn.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerRespawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRespawn.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerRespawn.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PlayerRespawn.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerRespawn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PickUpSystem.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PickUpSystem.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PickUpSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpSystem.cs",
-              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Leveldesign\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PickUpSystem.cs",
+              "ToolTip": "C:\\Users\\patri\\OneDrive\\Desktop\\Uni\\4. Semester\\Gamedesign\\PA\\Main\\Gamedesign2\\GamedesignBase\\Assets\\Scripts\\PickUpSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\PickUpSystem.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
